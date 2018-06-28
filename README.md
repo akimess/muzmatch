@@ -10,3 +10,5 @@ npm run server   //This will run the development VueJS server
 node index.js    //This will run the server
 ```
 Once done, go to: http://localhost:8888/login
+
+UPDATE: Now you are able to stream music from the browser. Currently there are no controls available in the web app, will add them soon, but you are able to control it through the Spotify apps (Desktop, Mobile, Web).
